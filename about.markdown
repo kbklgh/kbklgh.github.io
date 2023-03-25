@@ -11,3 +11,5 @@ Här finns mina konstverk som jag ibland scannar in.
 Jag tycker om att spela roblox, skicka gärna ett mail om ni vill bli vänner.
 
 Jag tycker om att säga "wushiwawa"
+
+![me](/assets/klara.png)
