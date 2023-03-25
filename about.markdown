@@ -6,9 +6,11 @@ permalink: /about/
 
 Hej och välkomna till min sida på vida webben!
 
-Här finns mina konstverk som jag ibland scannar in.
+Jag är flicka som fyller {{ site.time | date: '%Y' | minus: 2014 % }} år detta år och som bor i Sverige. 
 
-Jag tycker om att spela roblox, skicka gärna ett mail om ni vill bli vänner.
+Här finns mina konstverk som jag ibland scannar in. Mitt stora intresse är att rita och skriva historier.
+
+En annan sak jag även tycker om är att spela roblox, skicka gärna ett mail om ni vill bli vänner.
 
 Jag tycker om att säga "wushiwawa"
 
