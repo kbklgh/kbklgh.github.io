@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Paintings on canvas 2020-2022"
+date:   2023-05-03 19:55:00
+tags: painting canvas art 2020 2022
+categories: painting
+---
+# My paintings on canvas year 2020-2022
+Some assorted paintings made by me over the years.
+
+![painting.1](/assets/canvas/IMG_9711.jpg)
+![painting.2](/assets/canvas/IMG_9712.jpg)
+![painting.3](/assets/canvas/IMG_9713.jpg)
+![painting.4](/assets/canvas/IMG_9714.jpg)
+![painting.5](/assets/canvas/IMG_9715.jpg)
+![painting.6](/assets/canvas/IMG_9716.jpg)
+![painting.7](/assets/canvas/IMG_9717.jpg)
